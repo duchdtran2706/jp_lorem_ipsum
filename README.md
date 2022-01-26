@@ -31,7 +31,7 @@ Call the `lorem_ipsum` function.
 String text = loremIpsum(words: 60);
 print(text);
 ```
-> Mihi duco adfero, puer pasco homo aduro missa. Tametsi esse pia illa, renuo uter. Premo picea. Loci letum demum abbas ceterum puteus suus metuo. Suus autus abeo queso > putus faenum. Corrigo lenio. Illa quris aurum sequi utrum taceo, pyropus quantum. Frequentatio immineo lacrima opportunitatus. Cum spes, fas vado ruris pudeo relictus > promulgatio scivi. Mane, senis illi sicut sano fleo formica.
+> 御あんゆ留遊よ雲メ氏ね夜り舳都さろとす目な氏は派ほッほみ個雲離るろ魔や派瀬目んす他にみゆ舳御け目樹二か阿さ模鵜え舳コ無鵜。
 
 
 ```dart
@@ -39,8 +39,8 @@ String text = loremIpsum(words: 60, paragraphs: 3, initWithLorem: true);
 print(text);
 ```
 
->Lorem ipsum, aurum haec dimitto. Consurgo cibo duo crux damno caput eximietate passim pello. He malus longe. Civis detineo sic.
+>根た擢ニぬ目け個課のけ露らオ津区キむみ等。
 >
->Cui archa obruo. Quae ratum reus ita, doleo rei. Horum minus, maior legis magis, placitum veni. Fors, approbo frux latus.
+>津都他御こよ譜おハゆゆ差模津列やのりも日。
 >
->Consisto, facio proficio tibi illas. Pono siligo purgatio infitialis. Multus virgo depulso permissi mos adeo vera. Quies leviculus esse vere.
+>あ目や尾野日け知ひろャえへル舳露か氏差区。
