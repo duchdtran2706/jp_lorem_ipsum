@@ -1,6 +1,6 @@
 name: lorem_ipsum_jp
 description: It is a package to generate random text easily, quickly and dynamically.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/duchdtran2706/jp_lorem_ipsum.git
 
 environment:
